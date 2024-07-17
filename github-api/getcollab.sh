@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Owner: Aakash Jain
 # Check if the correct number of arguments is provided
 
 # $#: This special variable holds the number of arguments passed to the script.
